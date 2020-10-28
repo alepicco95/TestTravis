@@ -4,7 +4,7 @@ jdk:
 
 addons:
     sonarcloud:
-        organization: "alepicco95"
+        organization: alepicco95
         token: "9851d6c03fe5bf6ad87c0a51c0d32d5c123a6709"
         
 script:
